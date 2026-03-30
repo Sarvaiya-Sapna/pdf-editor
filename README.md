@@ -253,6 +253,12 @@ Undo/redo is implemented using a custom history stack.
 
 ---
 
+# 🎥 Demo Video Link
+
+- [▶️ Watch Demo Video] (https://drive.google.com/file/d/1aptN6ViwcSaKmdGlVb2ubr0fCBYjJlJX/view?usp=sharing)
+
+---
+
 # 📦 Installation
 
 ## 1. Install dependencies
